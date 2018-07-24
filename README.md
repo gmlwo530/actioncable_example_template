@@ -1,5 +1,9 @@
 # ACTION CABLE EXAMPLE
 
-This repository is just rails project with added template for chat application
+*Master Branch* is just rails project with added template for chat application
 
-Template is based on bootstrap4 and i used [Sunil Rajput's template](https://bootsnipp.com/snippets/1ea0N)
+*Done Branch* is chat application
+
+This app is not for use production env, only use on development env
+
+Template is based on bootstrap4 and I used [Sunil Rajput's template](https://bootsnipp.com/snippets/1ea0N)
